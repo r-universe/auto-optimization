@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "irace"]
-	path = irace
-	url = https://github.com/MLopez-Ibanez/irace
-	registered = false
 [submodule "iraceplot"]
 	path = iraceplot
 	url = https://github.com/auto-optimization/iraceplot
